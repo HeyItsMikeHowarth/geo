@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Felix Warehouse Sites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Name": "Enfield - North London", "description": "EN1 1FT" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Park Royal - West London", "description": "NW10 7FW" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Deptford - South London", "description": "SE8 5HY" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } },
+{ "type": "Feature", "properties": { "Name": "Poplar - East London", "description": "E14 7BN" }, "geometry": { "type": "Point", "coordinates": [ 0.0, 0.0 ] } }
+]
+}
